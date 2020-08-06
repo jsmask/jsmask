@@ -11,7 +11,7 @@
 - [欧呦Mask](https://jsmask.github.io/ouyou/index.html#/)
 
 
-## Tool
+## Tools
 
 - [svga转换png序列帧](https://jsmask.github.io/svgatopngs/)
 
