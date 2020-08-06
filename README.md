@@ -6,24 +6,24 @@
 <p>😆 三十而立时，无房单身郎。</p>
 
 
-## Home:
+## Home
 
 - [欧呦Mask](https://jsmask.github.io/ouyou/index.html#/)
 
 
-## Tools：
+## Tool
 
 - [svga转换png序列帧](https://jsmask.github.io/svgatopngs/)
 
 
-## Demo: 
+## Demo
 
 - [taptap(vue h5)](https://jsmask.github.io/taptap/)
 - [react-ms(react pc)](https://jsmask.github.io/react-ms)
 - [2d&3d(canvas)](https://github.com/jsmask/JSCanvasTest)
 
 
-## Game：
+## Game
 
 - [跳一跳(three.js)](https://jsmask.github.io/jump-game/index.html)
 - [淘金矿工(cocos creator)](https://jsmask.github.io/gold-miner/)
