@@ -28,5 +28,5 @@
 - [跳一跳(three.js)](https://jsmask.github.io/jump-game/index.html)
 - [淘金矿工(cocos creator)](https://jsmask.github.io/gold-miner/)
 - [打地鼠(hilo.js)](https://jsmask.github.io/h5game/gopher.html)
-- [坦克大战(u3d)](https://github.com/jsmask/Tank)
+- [坦克大战(untiy 2d)](https://github.com/jsmask/Tank)
 
