@@ -5,6 +5,7 @@
 <p>😝 语言数十种，前端称擅长；</p>
 <p>😆 三十而立时，无房单身郎。</p>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jsmask)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Home
 
