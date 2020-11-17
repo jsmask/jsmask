@@ -8,6 +8,7 @@
 ## Home
 
 - [欧呦Mask](https://jsmask.github.io/ouyou/index.html#/)
+- [前端笔记](https://jsmask.gitee.io/note_blob/)
 
 
 ## Tools
