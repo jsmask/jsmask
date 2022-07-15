@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats.vercel.app/api?username=alqmc&show_icons=true&include_all_commits=true" align="right">
+
 <h2 align="center">👋 余生很长 请多指教 👋</h2>
 
 <p>😄 年少太轻狂，误入互联网；</p>
