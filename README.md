@@ -5,7 +5,7 @@
 
 <details>
   <summary>作品集</summary>
-  <p>[GAMEBOY游戏机](https://3d-gbc.netlify.app/)</p>
+  - GAMEBOY游戏机](https://3d-gbc.netlify.app/)
   <p>[8-bit唱片机](https://mask-3d-record.netlify.app/)</p>
   <p>[模型换肤](https://3d-chromaforge-workshop.netlify.app/)</p>
   <p>[FlyBird](https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-fly-bird)</p>
@@ -27,7 +27,7 @@
 
 <details>
   <summary>Github Stats</summary>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jsmask&show_icons=true&title_color=fff&icon_color=75564B&text_color=75564B&bg_color=FFC221" alt="stats" /></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jsmask&show_icons=true&title_color=75564B&icon_color=75564B&text_color=75564B&bg_color=FFC221" alt="stats" /></p>
 </details>
 
 
