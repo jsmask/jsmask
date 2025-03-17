@@ -5,24 +5,29 @@
 
 <details>
   <summary>作品集</summary>
+  <style>
+    details p {
+      font-size: 0.8em;
+    }
+  </style>
   <p><a href="https://3d-gbc.netlify.app/">GAMEBOY游戏机</a></p>
-  <p>[8-bit唱片机](https://mask-3d-record.netlify.app/)</p>
-  <p>[模型换肤](https://3d-chromaforge-workshop.netlify.app/)</p>
-  <p>[FlyBird](https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-fly-bird)</p>
-  <p>[东京喰种-金木研](https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-jinmu-reflection)</p>
-  <p>[万圣节-乔巴](https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-halloween)</p>
-  <p>[画展](https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-art-exhibition)</p>
-  <p>[谜之海岛](https://sea-viewer.netlify.app/)</p>
-  <p>[美好时刻](https://delicious-afternoon.netlify.app/)</p>
-  <p>[全息高达](https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-holographic-robot)</p>
-  <p>[积木火车](https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-train)</p>
-  <p>[FPS游戏](https://fps-base-game.netlify.app)</p>
-  <p>[跳一跳](https://jsmask.github.io/jump-game/index.html)</p>
-  <p>[猎鸭游戏](https://2d-duck-hunt.netlify.app/)</p>
-  <p>[十里坡剑神](https://shilipo-game.netlify.app/)</p>
-  <p>[纸片鱼](https://codepen.io/jsmask/full/xxVaOMy)</p>
-  <p>[淘金矿工](https://jsmask.github.io/gold-miner/)</p>
-  <p>[此间的江湖Mobile](https://jsmask.github.io/show/02/index.html)</p>
+  <p><a href="https://mask-3d-record.netlify.app/">8-bit唱片机</a></p>
+  <p><a href="https://3d-chromaforge-workshop.netlify.app/">模型换肤</a></p>
+  <p><a href="https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-fly-bird">FlyBird</a></p>
+  <p><a href="https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-jinmu-reflection">东京喰种-金木研</a></p>
+  <p><a href="https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-halloween">万圣节-乔巴</a></p>
+  <p><a href="https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-art-exhibition">画展</a></p>
+  <p><a href="https://sea-viewer.netlify.app/">谜之海岛</a></p>
+  <p><a href="https://delicious-afternoon.netlify.app/">美好时刻</a></p>
+  <p><a href="https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-holographic-robot">全息高达</a></p>
+  <p><a href="https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-train">积木火车</a></p>
+  <p><a href="https://fps-base-game.netlify.app">FPS游戏</a></p>
+  <p><a href="https://jsmask.github.io/jump-game/index.html">跳一跳</a></p>
+  <p><a href="https://2d-duck-hunt.netlify.app/">猎鸭游戏</a></p>
+  <p><a href="https://shilipo-game.netlify.app/">十里坡剑神</a></p>
+  <p><a href="https://codepen.io/jsmask/full/xxVaOMy">纸片鱼</a></p>
+  <p><a href="https://jsmask.github.io/gold-miner/">淘金矿工</a></p>
+  <p><a href="https://jsmask.github.io/show/02/index.html">此间的江湖Mobile</a></p>
 </details>
 
 <details>
