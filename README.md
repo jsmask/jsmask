@@ -1,16 +1,9 @@
 
-<h2 align="center">👋 余生很长 请多指教 👋</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=jsmask&show_icons=true&include_all_commits=true" align="right">
-<br/>
-<p>😄 年少太轻狂，误入互联网；</p>
-<p>😧 初来读书少，两眼直茫茫。</p>
-<p>😝 语言数十种，前端称擅长；</p>
-<p>😆 三十而立时，无房单身郎。</p>
-<br/>
-
 - 👋 嗨，我是Mask。这是我的[掘金博客](https://juejin.cn/user/1204720472953240/posts)和[codepen](https://codepen.io/jsmask)。
 - 👀 我是一名专业的 React/Vue 前端开发人员，对渲染2D/3D创意类程序非常感兴趣。
 - 🌱 永远学习，永远专注！保持求知欲！
+
+<img src="https://github-readme-stats.vercel.app/api?username=jsmask&show_icons=true&include_all_commits=true" align="right">
 
 ## 作品集
 
