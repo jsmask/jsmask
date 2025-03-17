@@ -5,11 +5,6 @@
 
 <details>
   <summary>作品集</summary>
-  <style>
-    details p {
-      font-size: 0.8em;
-    }
-  </style>
   <p><a href="https://3d-gbc.netlify.app/">GAMEBOY游戏机</a></p>
   <p><a href="https://mask-3d-record.netlify.app/">8-bit唱片机</a></p>
   <p><a href="https://3d-chromaforge-workshop.netlify.app/">模型换肤</a></p>
