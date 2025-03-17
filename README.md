@@ -7,11 +7,13 @@
 
 - [GAMEBOY游戏机](https://3d-gbc.netlify.app/)
 - [8-bit唱片机](https://mask-3d-record.netlify.app/)
+- [模型换肤](https://3d-chromaforge-workshop.netlify.app/)
 - [FlyBird](https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-fly-bird)
 - [东京喰种-金木研](https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-jinmu-reflection)
 - [万圣节-乔巴](https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-halloween)
 - [画展](https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-art-exhibition)
 - [谜之海岛](https://sea-viewer.netlify.app/)
+- [美好时刻](https://delicious-afternoon.netlify.app/)
 - [全息高达](https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-holographic-robot)
 - [积木火车](https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-train)
 - [FPS游戏](https://fps-base-game.netlify.app)
