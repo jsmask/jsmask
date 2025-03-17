@@ -20,4 +20,4 @@
 - [淘金矿工](https://jsmask.github.io/gold-miner/)
 - [此间的江湖Mobile](https://jsmask.github.io/show/02/index.html)
 
-<img src="https://github-readme-stats.vercel.app/api?username=jsmask&show_icons=true&include_all_commits=true" >
+<img src="https://github-readme-stats.vercel.app/api?username=jsmask&show_icons=true&include_all_commits=true" align="right">
