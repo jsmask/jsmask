@@ -1,7 +1,7 @@
 ## 个人简介
-- 👋 嗨，我是Mask。这是我的[掘金博客](https://juejin.cn/user/1204720472953240/posts)和[codepen](https://codepen.io/jsmask)。
-- 👀 我是一名专业的 React/Vue 前端开发人员，对渲染2D/3D创意类程序非常感兴趣。
-- 🌱 永远学习，永远专注！保持求知欲！
+- 🍔 嗨，我是Mask。这是我的[掘金博客](https://juejin.cn/user/1204720472953240/posts)和[codepen](https://codepen.io/jsmask)。
+- 🍱 我是一名专业的 React/Vue 前端开发人员，对渲染2D/3D创意类程序非常感兴趣。
+- 🍖 永远学习，永远专注！保持求知欲！
 
 ## 作品集
 
