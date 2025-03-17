@@ -1,28 +1,28 @@
 ## JSMASK
-- 🍔 嗨，我是Mask。这是我的[掘金博客](https://juejin.cn/user/1204720472953240/posts)和[codepen](https://codepen.io/jsmask)。
-- 🍱 我是一名专业的 React/Vue 前端开发人员，对渲染2D/3D创意类程序非常感兴趣。
-- 🍖 永远学习，永远专注！保持求知欲！
+- 🍔 Hi, I’m Mask. This is my Juejin Blog and Codepen.
+- 🍱 I am a professional React/Vue front-end developer, deeply interested in creative 2D/3D rendering.
+- 🍖 Always learning, always focused! Keep the curiosity alive!
 
 <details>
-  <summary>作品集</summary>
-  <a href="https://3d-gbc.netlify.app/">GAMEBOY游戏机</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://mask-3d-record.netlify.app/">8-bit唱片机</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://3d-chromaforge-workshop.netlify.app/">模型换肤</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <summary>Collections</summary>
+  <a href="https://3d-gbc.netlify.app/">GAMEBOY Game Console</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://mask-3d-record.netlify.app/">8-bit Record Player</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://3d-chromaforge-workshop.netlify.app/">Model Skin Swap</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-fly-bird">FlyBird</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-jinmu-reflection">东京喰种-金木研</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-halloween">万圣节-乔巴</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-art-exhibition">画展</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://sea-viewer.netlify.app/">谜之海岛</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://delicious-afternoon.netlify.app/">美好时刻</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-holographic-robot">全息高达</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-train">积木火车</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://fps-base-game.netlify.app">FPS游戏</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://jsmask.github.io/jump-game/index.html">跳一跳</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://2d-duck-hunt.netlify.app/">猎鸭游戏</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://shilipo-game.netlify.app/">十里坡剑神</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codepen.io/jsmask/full/xxVaOMy">纸片鱼</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://jsmask.github.io/show/02/index.html">此间的江湖</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://jsmask.github.io/gold-miner/">淘金矿工</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-jinmu-reflection">Tokyo Ghoul - Ken Kaneki</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-halloween">Halloween - Chopper</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-art-exhibition">Art Exhibition</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://sea-viewer.netlify.app/">Mysterious Island</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://delicious-afternoon.netlify.app/">Sweet Moment</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-holographic-robot">Holographic Gundam</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-train">Lego Train</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://fps-base-game.netlify.app">FPS Game</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://jsmask.github.io/jump-game/index.html">Jump Game</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://2d-duck-hunt.netlify.app/">Duck Hunt Game</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://shilipo-game.netlify.app/">Shilipo Sword Master</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codepen.io/jsmask/full/xxVaOMy">Paper Fish</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://jsmask.github.io/show/02/index.html">The Rivers and Lakes</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://jsmask.github.io/gold-miner/">Gold Miner</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </details>
 
 <details>
