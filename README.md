@@ -3,8 +3,6 @@
 - 👀 我是一名专业的 React/Vue 前端开发人员，对渲染2D/3D创意类程序非常感兴趣。
 - 🌱 永远学习，永远专注！保持求知欲！
 
-<img src="https://github-readme-stats.vercel.app/api?username=jsmask&show_icons=true&include_all_commits=true" >
-
 ## 作品集
 
 - [GAMEBOY游戏机](https://3d-gbc.netlify.app/)
@@ -22,4 +20,4 @@
 - [淘金矿工](https://jsmask.github.io/gold-miner/)
 - [此间的江湖Mobile](https://jsmask.github.io/show/02/index.html)
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=jsmask&show_icons=true&include_all_commits=true" >
