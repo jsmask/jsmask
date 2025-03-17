@@ -5,7 +5,7 @@
 
 <details>
   <summary>作品集</summary>
-  - GAMEBOY游戏机](https://3d-gbc.netlify.app/)
+  <p><a href="https://3d-gbc.netlify.app/">GAMEBOY游戏机</a></p>
   <p>[8-bit唱片机](https://mask-3d-record.netlify.app/)</p>
   <p>[模型换肤](https://3d-chromaforge-workshop.netlify.app/)</p>
   <p>[FlyBird](https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-fly-bird)</p>
