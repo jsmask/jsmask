@@ -6,7 +6,7 @@
 ## 作品集
 
 - [GAMEBOY游戏机](https://3d-gbc.netlify.app/)
-- [唱片机](https://mask-3d-record.netlify.app/)
+- [8-bit唱片机](https://mask-3d-record.netlify.app/)
 - [FlyBird](https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-fly-bird)
 - [东京喰种-金木研](https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-jinmu-reflection)
 - [万圣节-乔巴](https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-halloween)
