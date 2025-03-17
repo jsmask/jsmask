@@ -21,8 +21,8 @@
   <a href="https://2d-duck-hunt.netlify.app/">猎鸭游戏</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://shilipo-game.netlify.app/">十里坡剑神</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://codepen.io/jsmask/full/xxVaOMy">纸片鱼</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://jsmask.github.io/show/02/index.html">此间的江湖</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://jsmask.github.io/gold-miner/">淘金矿工</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://jsmask.github.io/show/02/index.html">此间的江湖Mobile</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </details>
 
 <details>
