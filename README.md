@@ -19,6 +19,7 @@
 - [FPS游戏](https://fps-base-game.netlify.app)
 - [跳一跳](https://jsmask.github.io/jump-game/index.html)
 - [猎鸭游戏](https://2d-duck-hunt.netlify.app/)
+- [十里坡剑神](https://shilipo-game.netlify.app/)
 - [纸片鱼](https://codepen.io/jsmask/full/xxVaOMy)
 - [淘金矿工](https://jsmask.github.io/gold-miner/)
 - [此间的江湖Mobile](https://jsmask.github.io/show/02/index.html)
