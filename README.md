@@ -1,11 +1,11 @@
-## About me
+😎 About me
 - 🍔 Hi, I’m Mask. This is my [Juejin Blog](https://juejin.cn/user/1204720472953240/posts) and [Codepen](https://codepen.io/jsmask).
 - 🍱 I am a professional React/Vue front-end developer, deeply interested in creative 2D/3D rendering.
 - 🍖 Always learning, always focused! Keep the curiosity alive!
 
 ⚙️ My skills
 ------
-[![My Skills](https://skillicons.dev/icons?i=js,ts,threejs,blender,vite,vue,react,nodejs,pinia,vscode,electron,git,ps,html,css,sass,svg,unity,py,mongodb&perline=8)](https://github.com/jsmask)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,threejs,blender,vite,vue,react,nodejs,pinia,vscode,electron,git,ps,html,css,sass,svg,unity,py,mongodb&perline=10)](https://github.com/jsmask)
 
 <details>
   <summary>Collections</summary>
