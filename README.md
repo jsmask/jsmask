@@ -34,7 +34,6 @@
   <summary>Github Stats</summary>
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=jsmask&show_icons=true&title_color=75564B&icon_color=75564B&text_color=75564B&bg_color=FFC221" alt="stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jsmask&show_icons=true&title_color=75564B&icon_color=75564B&text_color=75564B&bg_color=FFC221" alt="langs" />
   </p>
 </details>
 
