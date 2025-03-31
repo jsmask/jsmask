@@ -6,7 +6,7 @@
 
 ⚙️ My Skills
 ------
-[![My Skills](https://skillicons.dev/icons?i=js,ts,threejs,blender,vite,vue,react,nodejs,pinia,vscode,electron,git,ps,html,css,sass,svg,unity,py,mongodb&perline=10)](https://github.com/jsmask)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,threejs,blender,vite,vue,react,nodejs,pinia,vscode,electron,git,ps,html,css,sass,svg,unity,py,nestjs&perline=10)](https://github.com/jsmask)
 
 <details>
   <summary>Collections</summary>
