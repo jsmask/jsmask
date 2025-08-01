@@ -8,7 +8,7 @@
 ------
 [![My Skills](https://skillicons.dev/icons?i=js,ts,threejs,blender,vite,vue,react,nodejs,pinia,vscode,electron,git,ps,html,css,sass,svg,unity,py,nestjs&perline=10)](https://github.com/jsmask)
 
-<details>
+<details open>
   <summary>Collections</summary>
   <a href="https://3d-gbc.netlify.app/">GAMEBOY Game Console</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://mask-3d-record.netlify.app/">8-bit Record Player</a>&nbsp;&nbsp;&nbsp;&nbsp;
